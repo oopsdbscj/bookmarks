@@ -1,3 +1,6 @@
+### JPA
+- [HQL](https://docs.jboss.org/hibernate/core/3.3/reference/en/html/queryhql.html#queryhql-expressions)
+
 ### Dev Ops
 - [发布策略](http://www.zhangjiee.com/wiki/devops/k8s-deployment-strategies.html)
 
