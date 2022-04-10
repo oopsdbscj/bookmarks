@@ -16,5 +16,5 @@
 - [Oracle Live Sql](https://livesql.oracle.com/apex/f?p=590:1:10884088774130::NO:RP::)
 
 ### K8S
-- [virtual service -> version](https://blog.51cto.com/u_14625168/2485525)
+- [Istio Route](https://blog.51cto.com/u_14625168/2485525)
 
