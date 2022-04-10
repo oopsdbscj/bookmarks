@@ -14,3 +14,7 @@
 - [Swagger Editor](https://editor.swagger.io)
 - [代码对比](https://tools.fun/diff.html)
 - [Oracle Live Sql](https://livesql.oracle.com/apex/f?p=590:1:10884088774130::NO:RP::)
+
+### K8S
+- [virtual service -> version](https://blog.51cto.com/u_14625168/2485525)
+
