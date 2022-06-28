@@ -20,3 +20,6 @@
 
 ### UML charts
 - [lucid](https://lucid.app/documents#/documents)
+
+### architecture design tools
+- [ihuhai](http://webchart.ihuhai.cn/)
