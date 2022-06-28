@@ -23,3 +23,4 @@
 
 ### architecture design tools
 - [ihuhai](http://webchart.ihuhai.cn/)
+- [diagrams](https://app.diagrams.net/)
